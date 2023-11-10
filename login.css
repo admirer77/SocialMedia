@@ -1,0 +1,30 @@
+.a1-c1{
+    background: linear-gradient(to bottom left, #000000, rgb(0, 0, 0));
+    height: 100vh;
+    
+}
+.a1-c11{
+    background:linear-gradient(45deg,rgb(0, 0, 0),#000000);
+    padding:40px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    box-shadow: 0px 0px 100px rgb(99, 60, 1) ;
+}
+
+
+.a1-f11{
+    background:linear-gradient(45deg,#ff964b,#ff5d1d);
+    height: 45px;
+    width: 20vw;
+    border:0;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: #000000;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}

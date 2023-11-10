@@ -1,0 +1,43 @@
+.a1-c1{
+    background: linear-gradient(to bottom left, #000000, rgb(0, 0, 0));
+    min-height: 100vh;
+    
+}
+.a1-c11{
+    background:linear-gradient(45deg,rgb(0, 0, 0),#000000);
+    padding:40px;
+    min-height: 100vh;
+    width: 700px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    box-shadow: 0px 0px 100px rgb(1, 99, 48) ;
+}
+
+
+.a1-f11{
+    background:linear-gradient(45deg,#ff964b,#ff5d1d);
+    height: 45px;
+    width: 20vw;
+    border:0;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: #000000;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+.msg1{
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 2px solid #1dff8e;
+    background-color: rgb(1, 1, 1);
+    margin-bottom: 5px;
+    min-height: 20px;
+}
